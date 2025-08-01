@@ -7,9 +7,9 @@
 
 
 • The endpoints returns the follow structure:
-<h3>For one station and one date: </h3>
+<h3>• For one station and one date: </h3>
 <img width="386" height="247" alt="for one year and one date" src="https://github.com/user-attachments/assets/d1ff2e14-08ee-4ecc-80e4-01dec39b84e4" /><br>
-<h3>For one station and all dates: </h3>
+<h3>• For one station and all dates: </h3>
 <img width="920" height="952" alt="for one station all dates" src="https://github.com/user-attachments/assets/bdf97b81-2ab8-4faf-9ee4-76507ab32251" /><br>
-<h3>For one station and one year: </h3>
+<h3>• For one station and one year: </h3>
 <img width="820" height="952" alt="for one station and one year" src="https://github.com/user-attachments/assets/0dd92839-80fc-4848-97c0-4797a18d2924" />
